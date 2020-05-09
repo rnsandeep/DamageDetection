@@ -1,0 +1,6 @@
+mAP: 0.4733
+rear_bumper     : 0.2121
+front_bumper    : 0.8264
+headlamp        : 0.3084
+door            : 0.3636
+hood            : 0.6558
